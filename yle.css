@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#sppppon{
+    border-color: cornflowerblue;
+}
+
+
+#Dload_me{
+    background-color: black;
+    color: white;
+}#Dload_me:hover{
+    background-color: rebeccapurple;
+    color: aquamarine;
+}
+
+h1{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Evrty{
+    color: aliceblue;
+}
+
+
+#Evrty:hover{
+    color: hsla(90, 28%, 82%, 0.802);
+}
+
+h3{
+    color: aliceblue;
+}
+
+pre{
+    color: aliceblue;
+}
